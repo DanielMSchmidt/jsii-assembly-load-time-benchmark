@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/DanielMSchmidt/jsii-assembly-load-time-benchmark#readme",
   "dependencies": {
+    "@ovotech/avro-ts": "^6.1.0",
     "avsc": "^5.7.7",
     "benchmark": "^2.1.4"
   }
